@@ -6,6 +6,8 @@ Workshop, NeurIPS 2026.
 Koyama, T. The Verification Wall in Microbial Metabolomics.
 AI for Science Workshop (NeurIPS 2026).
 
+https://arxiv.org/abs/2610.39914
+
 ## Contents
 
 - `tier_pipeline.py` sorts candidate metabolite structures into verification
